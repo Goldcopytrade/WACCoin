@@ -1,6 +1,6 @@
 # WACCoin The Token of Payment Marketplace & Staking
 
-<div align="center"><img src="https://kaew8.live/wp-content/uploads/2023/12/LOGO100X100.fw_.png)" /><br />
+<div align="center"><img src="https://kaew8.live/wp-content/uploads/2023/12/staking-FTC.fw_.png)" /><br />
 </div>
 <div align="center">
   <h1>
